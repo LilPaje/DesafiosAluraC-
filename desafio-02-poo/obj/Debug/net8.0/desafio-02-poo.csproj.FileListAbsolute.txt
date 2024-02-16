@@ -12,3 +12,4 @@
 /home/souopj/Documents/programas/desafio-02-poo/obj/Debug/net8.0/desafio-02-poo.pdb
 /home/souopj/Documents/programas/desafio-02-poo/obj/Debug/net8.0/desafio-02-poo.genruntimeconfig.cache
 /home/souopj/Documents/programas/desafio-02-poo/obj/Debug/net8.0/ref/desafio-02-poo.dll
+/home/souopj/Documents/programas/desafio-02-poo/obj/Debug/net8.0/desafio-02-poo.sourcelink.json

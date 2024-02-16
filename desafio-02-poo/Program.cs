@@ -31,7 +31,7 @@ Console.WriteLine("---Carro---");
 Carro carro1 = new Carro();
 
 
-carro1.AnoDeFabricacao = 2000;
+carro1.AnoDeFabricacao = 2025;
 carro1.Modelo = "Corsa";
 carro1.Fabricante = "Teste";
 carro1.Acelerar();
@@ -41,3 +41,12 @@ carro1.Buzinar();
 
 
 Console.WriteLine(carro1.DescricaoDetalhada);
+
+//Parte 3
+Console.WriteLine("---Produto---");
+Produto produto1 = new Produto();
+produto1.nome = "Celular";
+produto1.marca = "Apple";
+produto1.PropPreco = 0.1f;
+produto1.PropEstoque = 1;
+Console.WriteLine(produto1.InformacoesDetalhadas);
