@@ -46,3 +46,21 @@ estoque1.AdicionarNovoProduto(produto1, 2);
 estoque1.ExibirProdutosNoEstoque();
 
 //Desafio 4
+
+Aluno aluno1 = new Aluno();
+aluno1.nome = "Izzy";
+aluno1.idade = 21;
+
+Disciplina disciplina1 = new Disciplina();
+disciplina1.nome = "Programação";
+disciplina1.MatricularAlunos(aluno1);
+
+aluno1.AdicionarNotaDaMateria(disciplina1, 10.0f);
+
+Professor professor1 = new Professor();
+professor1.nome = "Hillary";
+professor1.AdicionarDisciplina(disciplina1);
+
+aluno1.ExibirAluno();
+professor1.ExibirProfessor();
+disciplina1.ExibirDisciplina();
