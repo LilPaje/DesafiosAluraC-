@@ -1,0 +1,15 @@
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/bin/Debug/net8.0/desafio-04-poo
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/bin/Debug/net8.0/desafio-04-poo.deps.json
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/bin/Debug/net8.0/desafio-04-poo.runtimeconfig.json
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/bin/Debug/net8.0/desafio-04-poo.dll
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/bin/Debug/net8.0/desafio-04-poo.pdb
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/obj/Debug/net8.0/desafio-04-poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/obj/Debug/net8.0/desafio-04-poo.AssemblyInfoInputs.cache
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/obj/Debug/net8.0/desafio-04-poo.AssemblyInfo.cs
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/obj/Debug/net8.0/desafio-04-poo.csproj.CoreCompileInputs.cache
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/obj/Debug/net8.0/desafio-04-poo.sourcelink.json
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/obj/Debug/net8.0/desafio-04-poo.dll
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/obj/Debug/net8.0/refint/desafio-04-poo.dll
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/obj/Debug/net8.0/desafio-04-poo.pdb
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/obj/Debug/net8.0/desafio-04-poo.genruntimeconfig.cache
+/home/souopj/Documents/DesafiosAluraC-/desafio-04-poo/obj/Debug/net8.0/ref/desafio-04-poo.dll
